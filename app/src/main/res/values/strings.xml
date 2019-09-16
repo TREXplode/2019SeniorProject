@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FamilyTreeRecipe</string>
+    <string name="textview">TextView</string>
+    <string name="finalize">Finalize</string>
+    <string name="title_activity_recipe_list">RecipeList</string>
+    <string name="title_activity_recipe_view">RecipeView</string>
+</resources>
